@@ -1,0 +1,37 @@
+_repo: A-Pindarick-Ode-on-PaintingAddressed-to-Joshua-Reynolds-Esq._27130
+_version: 0.1.0
+contributor:
+  commentators:
+  - agent_name: Hilles, Frederick Whiley
+    birthdate: 1900
+    gutenberg_agent_id: '32480'
+    url: http://www.gutenberg.org/2009/agents/32480
+  - agent_name: Kirkwood, J.T.
+    gutenberg_agent_id: '32481'
+    url: http://www.gutenberg.org/2009/agents/32481
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morrison, Thomas
+    birthdate: 1705
+    deathdate: 1778
+    gutenberg_agent_id: '32479'
+    url: http://www.gutenberg.org/2009/agents/32479
+description: ''
+gutenberg_issued: '2008-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27130'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Painting -- Poetry'
+- !lcc 'PR'
+title: 'A Pindarick Ode on Painting
+
+  Addressed to Joshua Reynolds, Esq.'
+url: http://www.gutenberg.org/ebooks/27130
