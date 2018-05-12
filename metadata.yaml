@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '32479'
     url: http://www.gutenberg.org/2009/agents/32479
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27130#A-Pindarick-Ode-on-PaintingAddressed-to-Joshua-Reynolds-Esq.
 gutenberg_issued: '2008-11-02'
 gutenberg_type: Text
 identifiers:
